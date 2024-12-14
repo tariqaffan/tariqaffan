@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tariq M. Affan</h1>
-<h3 align="center">A passionate frontend developer from Nairobi Kenya.</h3>
+<h3 align="center">A passionate Full Stack Developer from Nairobi Kenya.</h3>
 
 - 💬 Ask me about **vue, nodejs, laravel,**
 
