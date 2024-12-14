@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **vue, nodejs, laravel,**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Call/Text/WhatsApp: +254710308848</h3>
 <p align="left">
 </p>
 
